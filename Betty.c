@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - Just return success.
+ * Return: 0.
+ */
+
+int main(void)
 {
 	int data = 1;
 
